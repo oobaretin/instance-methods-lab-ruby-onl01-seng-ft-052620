@@ -8,7 +8,3 @@ end
 
 
 
-snoopy = Dog.new
-lassie = Dog.new
-snoopy.bark
-lassie.bark 
